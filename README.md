@@ -1,6 +1,6 @@
 # Olá, Mundo 👋
 
-Este é um projeto de exemplo criado para aprender a abrir **Pull Requets** no GitHub.
+Este é um projeto de exemplo criado para aprender a abrir **Pull Requests** no GitHub.
 
 ## Como usar
 
